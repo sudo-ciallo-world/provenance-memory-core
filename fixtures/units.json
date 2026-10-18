@@ -1,0 +1,18 @@
+[
+  {
+    "statement": "demo policy: use the new review checklist",
+    "status": "active",
+    "evidence": "Synthetic author: use the new review checklist for the demo.",
+    "conditions": "Synthetic demo project only.",
+    "source_conv": "synthetic-conversation-001",
+    "embedding": [1.0, 0.0]
+  },
+  {
+    "statement": "demo policy: use the old checklist",
+    "status": "superseded",
+    "evidence": "Synthetic historical instruction, later replaced.",
+    "conditions": "Synthetic demo project only.",
+    "source_conv": "synthetic-conversation-001",
+    "embedding": [1.0, 0.0]
+  }
+]
