@@ -9,6 +9,6 @@ Preparation changes:
 3. Applied a shared active/unexpired eligibility filter to vector and lexical retrieval.
 4. Added entirely synthetic units, an offline demo, and focused regression tests.
 
-The public demo fixes embeddings rather than claiming to run a trained model. Original research data and historical metrics are excluded. The source directory had no independent Git history; confirm code rights and attribution before licensing.
+The public demo fixes embeddings rather than claiming to run a trained model. Original research data and historical metrics are excluded. The source directory had no independent Git history. sudo-ciallo-world confirmed the contribution and release rights for the selected code; see `LICENSE-DECISION.md` and the MIT `LICENSE`.
 
 The original application was not modified, redeployed, or benchmarked by this preparation.

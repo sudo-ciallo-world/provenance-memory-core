@@ -34,6 +34,8 @@ Earlier private-corpus comparisons do not measure this corrected revision. No pr
 
 ## Provenance And AI Assistance
 
+Most development took place locally before this public snapshot, first published on October 18, 2026. Public commits record the released snapshot and subsequent changes.
+
 sudo-ciallo-world conceived and led the system design, including the knowledge-unit model, retrieval/evaluation choices, architecture direction, integration, debugging, and verification. Implementation was developed with substantial AI-assisted coding. SQLite and model providers are reused infrastructure.
 
 Online functions require explicitly supplied endpoints, model choice, and API key. They no longer discover credentials from another application's home-directory configuration. The documented commands never invoke those functions.
